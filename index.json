@@ -1,22 +1,25 @@
 {
   "schema": "rb.ext.market/v1",
   "extensions": [
+  {
+  "schema": "rb.ext.market/v1",
+  "extensions": [
     {
-  "id": "sheet-studio",
-  "displayName": "表格工坊",
-  "description": "在侧栏里清洗与透视本地 CSV",
-  "version": "1.0.0",
-  "category": "data",
-  "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/tag/sheet-studio-v1.0.0/sheet-studio.zip",
-  "sha256": "64位小写十六进制",
-  "sizeBytes": 812345,
-  "icon": "icons/sheet-studio.png",
-  "minHostVersion": "0.1.14",
-  "publishedAt": "2026-11-06",
-  "author": "Sunldi",
-  "changelog": "修了导出丢表头",
-  "featured": false,
-  "tags": ["Excel", "表格"]
+      "id": "sheet-studio",
+      "displayName": "表格工坊",
+      "description": "在侧栏里清洗与透视本地 CSV",
+      "version": "1.0.0",
+      "category": "data",
+      "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/download/sheet-studio-v1.0.0/sheet-studio.zip",
+      "sha256": "03ed7f5a972084b6d7ab432f837f91189607e3c5a9d73fd7904e1dabecd16032",
+      "sizeBytes": 201621,
+      "publishedAt": "2026-11-06",
+      "author": "Sunldi",
+      "changelog": "表格读取、编辑等",
+      "featured": false,
+      "tags": ["Excel", "表格"]
+    }
+  ]
 }
   ]
 }
