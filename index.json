@@ -11,7 +11,7 @@
   "sha256": "64位小写十六进制",
   "sizeBytes": 812345,
   "icon": "icons/sheet-studio.png",
-  "minHostVersion": "1.0.0",
+  "minHostVersion": "0.1.14",
   "publishedAt": "2026-11-06",
   "author": "Sunldi",
   "changelog": "修了导出丢表头",
