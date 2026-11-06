@@ -7,7 +7,7 @@
   "description": "在侧栏里清洗与透视本地 CSV",
   "version": "1.0.0",
   "category": "data",
-  "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/download/v1.0.0/sheet-studio.zip",
+  "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/tag/sheet-studio-v1.0.0/sheet-studio.zip",
   "sha256": "64位小写十六进制",
   "sizeBytes": 812345,
   "icon": "icons/sheet-studio.png",
