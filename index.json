@@ -1,9 +1,6 @@
 {
   "schema": "rb.ext.market/v1",
   "extensions": [
-  {
-  "schema": "rb.ext.market/v1",
-  "extensions": [
     {
       "id": "sheet-studio",
       "displayName": "表格工坊",
@@ -19,7 +16,5 @@
       "featured": false,
       "tags": ["Excel", "表格"]
     }
-  ]
-}
   ]
 }
