@@ -1,4 +1,22 @@
 {
   "schema": "rb.ext.market/v1",
-  "extensions": []
+  "extensions": [
+    {
+  "id": "sheet-studio",
+  "displayName": "表格工坊",
+  "description": "在侧栏里清洗与透视本地 CSV",
+  "version": "1.0.0",
+  "category": "data",
+  "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/download/v1.0.0/sheet-studio.zip",
+  "sha256": "64位小写十六进制",
+  "sizeBytes": 812345,
+  "icon": "icons/sheet-studio.png",
+  "minHostVersion": "1.0.0",
+  "publishedAt": "2026-11-06",
+  "author": "Sunldi",
+  "changelog": "修了导出丢表头",
+  "featured": false,
+  "tags": ["Excel", "表格"]
+}
+  ]
 }
