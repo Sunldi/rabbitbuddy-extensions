@@ -1,1 +1,18 @@
-
+{
+  "schema": "rb.ext.market/v1",
+  "extensions": [
+    {
+      "id": "sheet-studio",
+      "displayName": "Excel",
+      "description": "Excel——Excel/WPS 风格的电子表格：xlsx/CSV 读写（图表/条件格式/数据验证/批注/超链接导出）、.xls 只读打开、行列隐藏、自定义数字格式、工作表复制移动、编辑区缩放、100+ 公式函数与跨表引用、筛选冻结、智能填充柄（双击自动填充/序列/填充选项）、多级排序、格式刷与打印预览",
+      "version": "1.0.0",
+      "category": "other",
+      "downloadUrl": "https://github.com/Sunldi/rabbitbuddy-extensions/releases/download/sheet-studio-v1.0.0/sheet-studio.rbext",
+      "featured": false,
+      "publishedAt": "2026-11-25",
+      "tags": [],
+      "sha256": "0589029c730ccf13287f2c9840b5ac6ff7e19969375d6926c6e03682e9bde515",
+      "sizeBytes": 468153
+    }
+  ]
+}
